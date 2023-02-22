@@ -21,6 +21,7 @@ Esta é uma solução para o [exercício do Curso Dev Quest](https://www.figma.c
 ### Captura de tela
 
 ![](./Screenshot_d.jpg)
+
 ![](./Screenshot_m.jpg)
 
 ### Links
